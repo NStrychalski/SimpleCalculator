@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.9-blue)](https://www.python.org/downloads/release/python-390/)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
-No description provided.
+A simple calculator created with Python in Visual Studio.
 
 ## Key Features
 
